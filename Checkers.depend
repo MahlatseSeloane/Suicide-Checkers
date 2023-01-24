@@ -1,0 +1,150 @@
+# depslib dependency file v1.0
+1656342294 source:d:\relearning programming\portfolio\checkers\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<string>
+	"GameManager.h"
+	"AI.h"
+
+1655661745 source:d:\relearning programming\portfolio\checkers\gamemanager.cpp
+	"GameManager.h"
+
+1655402211 d:\relearning programming\portfolio\checkers\gamemanager.h
+	<vector>
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1655641977 source:d:\relearning programming\portfolio\checkers\ai.cpp
+	"AI.h"
+
+1655397453 d:\relearning programming\portfolio\checkers\ai.h
+	<vector>
+	<iostream>
+
+1655641977 source:d:\relearning programming\nothing important\portfolio\checkers\ai.cpp
+	"AI.h"
+
+1655397453 d:\relearning programming\nothing important\portfolio\checkers\ai.h
+	<vector>
+	<iostream>
+
+1655661745 source:d:\relearning programming\nothing important\portfolio\checkers\gamemanager.cpp
+	"GameManager.h"
+
+1655402211 d:\relearning programming\nothing important\portfolio\checkers\gamemanager.h
+	<vector>
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1656436383 source:d:\relearning programming\nothing important\portfolio\checkers\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<string>
+	"GameManager.h"
+	"AI.h"
+
+1663255739 source:d:\relearning programming\checkers\ai.cpp
+	"AI.h"
+
+1663237660 d:\relearning programming\checkers\ai.h
+	<vector>
+	<iostream>
+
+1663254640 source:d:\relearning programming\checkers\gamemanager.cpp
+	"GameManager.h"
+
+1663254652 d:\relearning programming\checkers\gamemanager.h
+	<vector>
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1663255715 source:d:\relearning programming\checkers\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<string>
+	"GameManager.h"
+	"AI.h"
+
+1664966844 source:d:\relearning programming\checkers1\ai.cpp
+	"AI.h"
+
+1664960440 d:\relearning programming\checkers1\ai.h
+	<vector>
+	<iostream>
+
+1664965030 source:d:\relearning programming\checkers1\gamemanager.cpp
+	"GameManager.h"
+
+1664962033 d:\relearning programming\checkers1\gamemanager.h
+	<vector>
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1664981443 source:d:\relearning programming\checkers1\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<string>
+	"GameManager.h"
+	"AI.h"
+
+1664966844 source:d:\going to git\c++\suicide checkers\ai.cpp
+	"AI.h"
+
+1664960440 d:\going to git\c++\suicide checkers\ai.h
+	<vector>
+	<iostream>
+
+1664965030 source:d:\going to git\c++\suicide checkers\gamemanager.cpp
+	"GameManager.h"
+
+1664962033 d:\going to git\c++\suicide checkers\gamemanager.h
+	<vector>
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1664981443 source:d:\going to git\c++\suicide checkers\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<string>
+	"GameManager.h"
+	"AI.h"
+
+1673966498 source:d:\going to git\software development - c++\suicide checkers\suicide checkers\ai.cpp
+	"AI.h"
+
+1673963625 d:\going to git\software development - c++\suicide checkers\suicide checkers\ai.h
+	<vector>
+	<iostream>
+
+1673967039 source:d:\going to git\software development - c++\suicide checkers\suicide checkers\gamemanager.cpp
+	"GameManager.h"
+
+1673966984 d:\going to git\software development - c++\suicide checkers\suicide checkers\gamemanager.h
+	<vector>
+	<ctime>
+	<cstdlib>
+
+1673967039 source:d:\going to git\software development - c++\suicide checkers\suicide checkers\main.cpp
+	<iostream>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<string>
+	"GameManager.h"
+	"AI.h"
+
