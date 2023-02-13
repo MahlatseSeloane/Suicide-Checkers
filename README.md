@@ -16,14 +16,14 @@
 <h2>Board format </h2>
 <p>For moves made by the algorithms to be recorded in a meaningful way that can be understood easily, a standard labelling system is to be used. The checkers board is generally labelled as shown below:</p>
 
-PUT PICTURE HERE
+<img src="https://imgur.com/aI8JjwZ.png" height = "25%" width = "25%" />
 
 <p> Player 1 will have their pieces lined up on the side starting with 1 and player 2 will have their pieces lined up on the side with the maximum label number.</p>
 
 <h2>Input format</h2>
 <p>The input file would contain a list of board sizes, separated by newline characters, that would be used to test the two algorithms against each other. The input file had the following format</p>
 
-PUT PICTURE HERE
+<img src="https://imgur.com/rKtzLJs.png" height = "70%" width = "70%" />
 
 <h2>Output format</h2>
 <p>The program must produce an output file named results.txt. This file must contain the following:
@@ -43,10 +43,9 @@ PUT PICTURE HERE
 
 The history for each board size listed in the input file must be appended to this file with one empty line inbetween different games.
 
-Below is an exapmle of the output file for the games of the boardsizes in the input file:
+Below is an example of the output file for the games of the boardsizes in the input file:
 </p>
 
-PUT PICTURE HERE
-<p>Note that coordinates on the board are labelled using the value of the row (r) and column (c) where the top left position is r0c0 and bottom right is r5c5 for a board of size 4 x 4.</p>
+<img src="https://imgur.com/JaRF5cw.png" height = "70%" width = "70%" />
 
-Below is the graphical representation of the game play.
+<p>Note that coordinates on the board are labelled using the value of the row (r) and column (c) where the top left position is r0c0 and bottom right is r5c5 for a board of size 4 x 4.</p>
